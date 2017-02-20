@@ -1,9 +1,6 @@
-# Minetest-mod-ideas
 Post your ideas under issues and if some idea was already implemented give a link.
 
-some of the ideas are from here https://www.reddit.com/r/minecraftsuggestions/new/
-
-QUALITY OF LIFE IMPROVMENTS:
+# QUALITY OF LIFE IMPROVMENTS:
 
 -When you create new world its name is randomly generated unless changed in settings
 
@@ -25,7 +22,7 @@ This would be capped at 7 days so world files were not too big. Recipe would be 
 -Coordinates on map item suggestion
 As the title says: maps should have x,y,z coordiantes in the right up corner to show the player the point where he was the last time. How it could work is that the point/dot/red X should show on the map when right clicking it on a block to select the area you would like to remeber. Works 1 time per map, otherwise it would be too OP using it every time ;)
 
-MOBS:
+# MOBS:
 
 -ability to sacrifice mobs to get mob specific powers
 
@@ -64,16 +61,16 @@ When an op'd player in creative mode right clicks on a mob or other entity while
 -Slimes change in size as they absorb items
 By absorbing, I really mean Pick up. If a Small slime were to pick up say... 5 items, it'd grow to the next size. If a medium sized slime were to pick up about 20 items, it'd grow to the largest size.
 
-NEW FEATURES
+-Jack o laterns / pumpkins should scare away animals to protect your nice garden.
+As said in the title, it would look nice when you place a pumpkin on a fence. It scares away animals (like sheep) that are eating your grass and/or destroying your nice farm. It could maybe work with some mobs too like scaring away endermans or something.
+
+# NEW FEATURES
 
 -Snow and wool should reduce fall damage, like hay.
 Considering in 1.9 Hay bales, now reduce 80% of damage when falling in them, many other soft blocks were forgotten :/
 Also, Snow and wool should do the same... Those are very soft blocks in the real world (so is hay) and falling into snow, would cushion your fall, same as if you fell on wool, this would be nice for parkour, maps, or if you fell out of your ice castle, you wont die of fall damage!
 Landing on end rods and single iron bars, increase fall damage.
 Hay bales already decrease damage taken by fall damage, so why not have some blocks that increase fall damage? This would be a fresh mechanic the game has never seen before in vanilla.
-
--Jack o laterns / pumpkins should scare away animals to protect your nice garden.
-As said in the title, it would look nice when you place a pumpkin on a fence. It scares away animals (like sheep) that are eating your grass and/or destroying your nice farm. It could maybe work with some mobs too like scaring away endermans or something.
 
 -Custom blocks
 A new item called paint buckets can be crafted by surrounding a bucket with the colored dye you want the paint to be. There is also a plain white block called a: canvas block, and when you right click it you can use paint buckets to paint the new block pixel by pixel or make all sides identical!
