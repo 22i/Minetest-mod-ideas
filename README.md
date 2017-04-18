@@ -1,10 +1,22 @@
-Post your ideas under issues and if some idea was already implemented give a link.
+ Post your ideas under issues and if some idea was already implemented give a link.
+
+http://www.creativersegame.com/
+
+http://www.trionworlds.com/trove/
+
+https://www.skysaga.com/en
+
+https://picroma.com/cubeworld
 
 # QUALITY OF LIFE IMPROVMENTS:
 
--When you create new world its name is randomly generated unless changed in settings
+-elytra wings https://youtu.be/hxrQ_vMgY20?t=119 https://github.com/minetest-mods/camera https://forum.minetest.net/viewtopic.php?f=9&t=17215
+
+-When you create new world its name is randomly generated unless changed in settings https://github.com/minetest/minetest/pull/5589
 
 -Random  funny mesages on start and loading
+
+-option for different crafting without patterns https://youtu.be/4MXZWl7_3BE?t=75
 
 -Autospacebar moves you up a block automaticly
 
@@ -22,7 +34,29 @@ This would be capped at 7 days so world files were not too big. Recipe would be 
 -Coordinates on map item suggestion
 As the title says: maps should have x,y,z coordiantes in the right up corner to show the player the point where he was the last time. How it could work is that the point/dot/red X should show on the map when right clicking it on a block to select the area you would like to remeber. Works 1 time per map, otherwise it would be too OP using it every time ;)
 
+-A Better way to be able to select "Biomes" in Customized World
+Currently, you can set the biome to "ALL" or and individual biome
+-I propose it's changed to be its own page with a checklist so you can have MUCH more control over the biomes in your world
+Edit1: It would also be cool if there were rarity sliders (Credit to /u/OwTheSledge for Rarity Sliders)
+Text Example: (Of what it would kind of look like)
+Biomes
+-Plains [✓]
+-Desert [✓]
+-Swamp [✘]
+rarity sliders
+
 # MOBS:
+
+-when mobs walk over certain nodes they change their texture
+
+-The Siren is a creature that has been suggested before, but here's my take on it:
+Sirens spawn very rarely in Ocean biomes. They do not bob up and down like any other swimming mob, but rather they swim fluently like Guardians.
+Appearance
+If a player is within range of the Siren, it will come up to the surface, look at the player, and sing. The song sounds like the first eight notes of C418's "Minecraft", but it's sung in a voice like this.
+This song inflicts an effect upon the player called "Temptation" or maybe "Siren's Call"? (name needs work). Anyway, this is the effect icon.
+The status effect causes the player to be automatically moved (for its duration) towards the closest Siren. When the player is close enough, the Siren screeches, similarly to a Ghast, and deals low damage to the player. the damage dealt is low, however the Siren keeps trying to drown the player by pushing them farther down.
+When the Siren is killed, it has a chance to drop 0-2 sponge, and 1 Pearl. When the Pearl is combined with an Ender Pearl, it creates another Ender Pearl. (It behaves the same way as firework duplication). This might be controversial because of the whole duplication thing and how someone will figure out how to make a Siren farm and create Ender pearls early game.
+https://www.reddit.com/r/minecraftsuggestions/comments/5w2sc5/new_mob_siren/
 
 -ability to sacrifice mobs to get mob specific powers
 
@@ -64,7 +98,24 @@ By absorbing, I really mean Pick up. If a Small slime were to pick up say... 5 i
 -Jack o laterns / pumpkins should scare away animals to protect your nice garden.
 As said in the title, it would look nice when you place a pumpkin on a fence. It scares away animals (like sheep) that are eating your grass and/or destroying your nice farm. It could maybe work with some mobs too like scaring away endermans or something.
 
+-Blocking an elder guardian beam with a sheild leaves a special pattern of the guardian's eye on it
+This pattern does not come on the regular banner. It is sheild exclusive. And this is the only legitimate way to obtain it. This will work for any sheild, bare wood or with a banner pattern. It will take one or two hits from the elder guardian to imprint the eye texture onto the sheild.
+The print does not get erased when you repair it but it can be removed by applying another banner pattern to it.
+You can put this in your house as a trophy.
+
 # NEW FEATURES
+
+-Special, "Treasure Maps", that you can buy from Cartographer Villagers.
+These maps would be avaible as a fairly expensive trade from cartographer villagers, and would work similar to treasure maps. Instead of an icon to represent the structure, it would have a red x to mark where treasure is buried.
+The treasure itself would consist of a chest containing cheap items and one treasure item. The treasure items could not be found or crafted anywhere else, and has a very special and useful purpose.
+
+-Combine weapon or tool with a written book in an anvil to give it lore text
+Naming your items is fantastic, but being able to go even beyond woudl be great. There could obviously be some limitation, says the first 5 lines are carried over only.
+
+-Planting a sapling into the nether turns it into a dead bush.
+
+-Placing bone meal in a desert spawns dead bushes
+Placing bone meal in a desert should spawn dead bushes. Also, saplings & tall grass planted in sand should randomly turn into dead bushes.
 
 -Snow and wool should reduce fall damage, like hay.
 Considering in 1.9 Hay bales, now reduce 80% of damage when falling in them, many other soft blocks were forgotten :/
@@ -167,4 +218,4 @@ There will be trivia dungeons that you encounter around the world they will cons
 
 -Zookeeper tycon for minetest
 
--Test if you can handle the hate continues hate messages apear on screen voiced insults included with death threats
+-Test if you can handle the hate continues hate messages apear on screen voiced insults included with death threats 
